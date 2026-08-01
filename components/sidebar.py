@@ -22,7 +22,7 @@ def mostrar_sidebar():
         unsafe_allow_html=True,
     )
 
-    st.sidebar.page_link("pages/inicio.py", label="🏠 Inicio")
+    st.sidebar.page_link("pages/Inicio.py", label="🏠 Inicio")
 
     st.sidebar.page_link("pages/resumen_general.py", label="📌 Resumen General")
 

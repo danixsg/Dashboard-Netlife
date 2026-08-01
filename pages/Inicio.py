@@ -1,4 +1,4 @@
-from turtle import pd
+import pandas as pd
 import streamlit as st
 from components.sidebar import mostrar_sidebar
 

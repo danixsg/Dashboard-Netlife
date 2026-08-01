@@ -10,7 +10,7 @@ st.set_page_config(
 
 
 inicio = st.Page(
-    "pages/inicio.py",
+    "pages/Inicio.py",
     title="Inicio",
     icon="🏠"
 )
