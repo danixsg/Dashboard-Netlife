@@ -1,0 +1,11 @@
+# Entornos virtuales
+venv/
+env/
+.env
+
+# Archivos de caché de Python
+__pycache__/
+*.pyc
+
+# Archivos de Streamlit (opcional, pero recomendado)
+.streamlit/
